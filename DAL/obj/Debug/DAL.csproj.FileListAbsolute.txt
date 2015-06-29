@@ -1,0 +1,5 @@
+E:\MyGrouPoint\DAL\bin\Debug\DAL.dll
+E:\MyGrouPoint\DAL\bin\Debug\DAL.pdb
+E:\MyGrouPoint\DAL\obj\Debug\DAL.dll
+E:\MyGrouPoint\DAL\obj\Debug\DAL.pdb
+E:\MyGrouPoint\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

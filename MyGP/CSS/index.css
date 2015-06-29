@@ -1,0 +1,43 @@
+﻿body {
+        font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #000;
+}
+#toolbar
+{
+    background: #000000;
+    border-bottom: 1px solid #111b32;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: auto;
+    height: 44px;
+    box-shadow: 0 3px 5px rgba(34,34,34,0.5);
+}
+#toolbar h1 {
+    color: #fff;
+  font-size: 16px;
+  
+  text-align: center;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.8);
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+.personalinformation
+{
+    color:skyblue;
+}
+.contact-information
+{
+    color:#CC00CC;
+}
+.optional-information
+{
+   color: #00CC00;
+}
+.get-the-app
+{
+    text-align: center;
+}
